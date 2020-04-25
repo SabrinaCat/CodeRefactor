@@ -2,9 +2,6 @@
 For this project I took a html and css document and condensed it to have semantic
 html tags and also removed non essential code. In addition, I added alt text for all images and logos to increase accessibility. The code has been cleaned up and comments were added for better upkeep in the future.
 
-
-
-
 ## User Story
 
 ```
@@ -27,6 +24,5 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
-
-Deployed webpage here:
-For contact information please visit linkedin:
+[Deployed webpage here](https://sabrinacat.github.io/CodeRefactor/)
+[Contact Info via Linkedin](https:/linkedin.com/in/sabrina-hollett-7203831a2/)
